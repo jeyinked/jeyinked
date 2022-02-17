@@ -12,6 +12,9 @@ En poste actuellement en temps qu'ingénieur système Linux."
 
 
  * Mon [Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/)  
+------
+
+
 
 
 
