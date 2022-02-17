@@ -1,12 +1,12 @@
 ### Salut! Je m'appelle Jerome Aguas 👋
   
-"Je suis ingénieur Linux & devops.  
+Je suis ingénieur Linux & devops.  
 Je travail à Paris chez DQE Software.  
-Passioné d'Open source!"
+Passioné d'Open source!
 
 
  * Mon [Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/)  
- * Me [contacter](jeromeaguas@gmail.com)
+
 
 
 <!--
