@@ -11,11 +11,15 @@ En octobre 2021, je décide de changer de cap. Souhaitant consacrer ma carrière
 En poste actuellement en temps qu'ingénieur système Linux."
 
 
- * Mon [Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/)  
+ * Mon [Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/)    📫
 ------
 
-![Simplon.co](https://cdn2.downdetector.com/static/uploads/logo/github-logo.png)
+![Simplon.co](https://cdn2.downdetector.com/static/uploads/logo/github-logo.png) 
 
+
+------
+
+### Mes différents projets! ✨
 
 
 
