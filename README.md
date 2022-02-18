@@ -22,7 +22,7 @@ L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certif
 ------
 
 ### Mes différents projets! ✨
-
+"Liste de mes projets que je realise dans le cadre d'évolution et d'amélioration du système en entreprise et également des projets plus personnelle."
 
 
 <!--
