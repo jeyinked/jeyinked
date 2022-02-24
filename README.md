@@ -29,11 +29,11 @@ L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certif
 
 * [BASTION](https://github.com/jeyinked/BASTION)
 
-* [MAJ SERVEURS MAIL VIA ANSIBLE](https://github.com/jeyinked/ANSIBLE)
+* [ANSIBLE]()
 
 * [SHELL / LINUX ](https://github.com/jeyinked/SHELL)
  
-* [ADMINISTRER DU WINDOWS VIA ANSIBLE (LINUX) ](https://github.com/jeyinked/WINDOWS_ADMINISTRATION_VIA_ANSIBLE)
+
 
 
 
