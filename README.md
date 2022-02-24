@@ -17,7 +17,7 @@ L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certif
  * Mon [Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/)    📫
 ------
 
-![Simplon.co](https://cdn2.downdetector.com/static/uploads/logo/github-logo.png) 
+![cyberpunk](https://cdn2.downdetector.com/static/uploads/logo/github-logo.png) 
 
 
 ------
