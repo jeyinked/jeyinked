@@ -33,7 +33,7 @@ L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certif
 
 * [PROGRAMMATION/SCRIPTING](https://github.com/jeyinked/PROGRAMMATION_SCRIPTING)
 
-* [BATCH / POWERSHELL ](https://github.com/jeyinked/BATCH_POWERSHELL)
+
 
 
  
