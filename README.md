@@ -31,7 +31,7 @@ L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certif
 
 * [ANSIBLE](https://github.com/jeyinked/ANSIBLE)
 
-* [SHELL / LINUX ](https://github.com/jeyinked/SCRIPTING-SHELL-BASH)
+* [SHELL / LINUX ](https://github.com/jeyinked/SCRIPTING_SHELL_LINUX)
 
 * [BATCH / POWERSHELL ](https://github.com/jeyinked/BATCH_POWERSHELL)
 
