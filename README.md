@@ -34,7 +34,7 @@ L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certif
 
 * [DEVOPS](https://github.com/jeyinked/DEVOPS)
 
-* [ADMINISTRATION LINUX](https://github.com/jeyinked/DEVOPS)
+* [ADMINISTRATION LINUX](https://github.com/jeyinked/ADMINISTRATION_LINUX)
 
  
 
