@@ -2,7 +2,7 @@
   
 "Après avoir collaboré avec Monoprix en officiant en tant que support Help desk niveau 1 puis niveau 2 à Clichy, au siège social même. 
 
-j’intègre l’aérospatial en avril 2019. 
+J’intègre l’aérospatial en avril 2019. 
 Plus précisément sur le site d'Ariane (ArianeGroup / Open) aux Mureaux .
 Pendant 2 ans, en temps qu'adminstrateur système / infra j'agis principalement sur la partie exploitation. 
 Ayant acquis par la suite, le statut de C.O.S (correspondant opérationnel de sécurité), je suis en charge de la partie gestion des informations support classifiées.
