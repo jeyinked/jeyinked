@@ -4,10 +4,10 @@
 
 J’intègre l’aérospatial en avril 2019. 
 Plus précisément sur le site d'Ariane (ArianeGroup / Open) aux Mureaux .
-Pendant 2 ans, en temps qu'adminstrateur système / infra j'agis principalement sur la partie exploitation. 
+Pendant 2 ans, en temps qu'adminstrateur système Linux / infra j'agis principalement sur la partie exploitation. 
 Ayant acquis par la suite, le statut de C.O.S (correspondant opérationnel de sécurité), je suis en charge de la partie gestion des informations support classifiées.
 
-En octobre 2021, je décide de changer de cap. Souhaitant consacrer ma carrière à l'open source, j'intègre la start-up DQE Software.
+En octobre 2021, je décide de changer de cap. Souhaitant consacrer ma carrière à l'open source et aux technologies DEVOPS, j'intègre la start-up DQE Software.
 En poste actuellement en temps qu'ingénieur système Linux.  
 L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certification indispensable pour la sécurité de l'information.
 
