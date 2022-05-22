@@ -27,7 +27,7 @@ L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certif
 
 
 
-* [SECURITY](https://github.com/jeyinked/SECURITY)
+* [SECURITY-ADMINISTRATION](https://github.com/jeyinked/SECURITY)
 
 * [PROGRAMMATION/SCRIPTING](https://github.com/jeyinked/PROGRAMMATION_SCRIPTING)
 
