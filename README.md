@@ -1,5 +1,5 @@
-### Salut! Je m'appelle Jerome Aguas 👋
-  
+Hello, 
+
 Après avoir collaboré avec Monoprix en tant que support Help desk niveau 2 au siège social de Clichy,
 
 J’intègre Ariane Group en avril 2019 aux Mureaux .
