@@ -1,15 +1,20 @@
 ### Salut! Je m'appelle Jerome Aguas 👋
   
-"Après avoir collaboré avec Monoprix en officiant en tant que support Help desk niveau 1 puis niveau 2 à Clichy, au siège social même. 
+Après avoir collaboré avec Monoprix en tant que support Help desk niveau 2 au siège social de Clichy,
 
-J’intègre l’aérospatial en avril 2019. 
-Plus précisément sur le site d'Ariane (ArianeGroup / Open) aux Mureaux .
-Pendant 2 ans, en temps qu'adminstrateur système Linux / infra j'agis principalement sur la partie exploitation. 
-Ayant acquis par la suite, le statut de C.O.S (correspondant opérationnel de sécurité), je suis en charge de la partie gestion des informations support classifiées.
+J’intègre Ariane Group en avril 2019 aux Mureaux .
+En tant qu'administrateur système / infra, j'ai eu l'opportunité d'agir principalement sur la partie exploitation (run/build). 
+J'ai également été reconnu comme Correspondant Opérationnel de Sécurité (C.O.S), une responsabilité qui m'a confié la gestion des informations supports classifiées.
 
-En octobre 2021, je décide de changer de cap. Souhaitant consacrer ma carrière à l'open source et aux technologies DEVOPS, j'intègre la start-up DQE Software.
-En poste actuellement en temps qu'ingénieur système Linux.  
-L'un de mes objectifs et de préparer DQE software à passer l'iso 27001. Certification indispensable pour la sécurité de l'information.
+Toutefois, en octobre 2021, j'ai senti qu'il était temps de prendre un nouveau cap dans ma carrière. Animé par ma passion pour l'open source, j'ai rejoint la dynamique start-up DQE Software en tant qu'ingénieur système Linux.
+
+Mon objectif au sein de cette entreprise était d'automatiser les processus et d'industrialiser les mises en production mais également de préparer DQE à obtenir la certification ISO 27001. Cette norme est indispensable pour assurer la sécurité des informations, particulièrement cruciale alors que l'entreprise se prépare à s'internationaliser.
+
+En ayant obtenu la certification ISO27001, le cycle que j'avais entrepris toucha à sa fin et il était temps pour moi d'évoluer.
+
+En septembre 2023,  j'intègre Thales Group. Entreprise dans laquelle j'ai toujours souhaité travailler. 
+J'ai  donc tout naturellement accepté de collaborer sur des projets ambitieux, porteurs et valorisants qui me permettront de peaufiner et consolider mes acquis.
+
 
 ![Simplon.co](https://64.media.tumblr.com/017610fc57565d741fa9590e3892caaf/05716ba0c46b3c10-e3/s500x750/d8127f1cc67928d8c106c9f34ba9f32aa5eb1130.gif)
 
