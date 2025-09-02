@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=50&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=jerome@linux:~$+whoami;Linux+System+Engineer;Cybersecurity+%26+Automation;Always+Learning..." alt="Terminal Prompt" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=jerome@linux:~$+whoami;Linux+System+Engineer;Cybersecurity+%26+Automation;Always+Learning..." alt="Terminal Prompt" />
 </p>
 
 
