@@ -12,7 +12,7 @@
 ![Simplon.co](https://64.media.tumblr.com/017610fc57565d741fa9590e3892caaf/05716ba0c46b3c10-e3/s500x750/d8127f1cc67928d8c106c9f34ba9f32aa5eb1130.gif)
 
 
-![Simplon.co](https://www.tumblr.com/mikael-darkan/763066888903409664?source=share) 
+---
 
 
 
