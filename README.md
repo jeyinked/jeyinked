@@ -5,6 +5,10 @@
 ---
 
 
+Alt text](https://i.ibb.co/KcYy6xdP/0-RA38-Pzd-Jipi-QEx-CP-1.gif)
+
+
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-111?logo=linux&logoColor=white" />
