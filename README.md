@@ -15,6 +15,12 @@
   <img src="https://64.media.tumblr.com/193e239055b521fa4cf3a9926998e74a/f1f4d7517491de0a-6e/s640x960/a5ec316d9d812e5735c29ae90d227e4f3e491587.gifv" alt="Cool Retro Term" />
 </p>
 
+---
+## 🙋‍♂️ About Me
+- 🔭 Actuellement : Ingénieur Linux @ THALES, PARIS
+- 🌱 J’apprends : SOC Analyste  
+- 🍂 Passionné par : Litterature / Art / Nature  
+- 🎯 Objectif : grandir en cybersécurité et partager mes projets
 
 ---
 
