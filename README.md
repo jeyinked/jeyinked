@@ -55,10 +55,10 @@
   <a href="https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/tonpseudo">
+  <a href="https://github.com/jeyinked">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+33000000000">
+  <a href="tel:+33775799298">
     <img src="https://img.shields.io/badge/Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
