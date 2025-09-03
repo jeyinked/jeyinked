@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF00&width=260&lines=Linux+System+Engineer;Cybersecurity+%26+Automation;Always+Learning..." alt="Terminal Prompt" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://64.media.tumblr.com/193e239055b521fa4cf3a9926998e74a/f1f4d7517491de0a-6e/s640x960/a5ec316d9d812e5735c29ae90d227e4f3e491587.gifv" alt="Cool Retro Term" />
