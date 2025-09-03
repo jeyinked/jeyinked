@@ -51,7 +51,13 @@
 ████░░░░░░░░░░░░░ | 45%  
 
 --- 
+## 📊 Stats GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight" />
+</p>
 
+---
 ## 📬 Contact
 
 <p align="center">
