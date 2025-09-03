@@ -49,20 +49,19 @@
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:jeromeaguas@gmail.com">
+  <a href="jeromeaguas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/)">
+  <a href="https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/tonpseudo">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+3375799298">
+  <a href="tel:+33000000000">
     <img src="https://img.shields.io/badge/Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
 
 
 
