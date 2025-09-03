@@ -1,8 +1,13 @@
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=99999999&color=00FF00&width=700&lines=%24+jerome@linux:~$+welcome_on_my_github!" alt="Terminal Prompt" />
+</p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&width=700&lines=%24+jerome@linux:~$+whoami;Linux+System+Engineer;Cybersecurity+%26+Automation;Always+Learning..." alt="Terminal Prompt" />
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF00&width=260&lines=Linux+System+Engineer;Cybersecurity+%26+Automation;Always+Learning..." alt="Terminal Prompt" />
 </p>
 
 ---
