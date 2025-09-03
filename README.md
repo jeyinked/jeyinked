@@ -18,7 +18,7 @@
 ---
 ## 🙋‍♂️ About Me
 - 🔭 Actuellement : Ingénieur Linux @ THALES, PARIS
-- 🌱 J’apprends : SOC Analyste  
+- 🌱 J’apprends : SOC Analyste & Forensic
 - 🍂 Passionné par : Litterature / Art / Nature  
 - 🎯 Objectif : grandir en cybersécurité et partager mes projets
 
