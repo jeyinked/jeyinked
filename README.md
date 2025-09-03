@@ -5,7 +5,6 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF00&width=260&lines=Linux+System+Engineer;Cybersecurity+%26+Automation;Always+Learning..." alt="Terminal Prompt" />
 </p>
@@ -15,6 +14,20 @@
 
 <p align="center">
   <img src="https://64.media.tumblr.com/017610fc57565d741fa9590e3892caaf/05716ba0c46b3c10-e3/s500x750/d8127f1cc67928d8c106c9f34ba9f32aa5eb1130.gif" alt="GIF 1" width=400"/>
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/193e239055b521fa4cf3a9926998e74a/f1f4d7517491de0a-6e/s640x960/a5ec316d9d812e5735c29ae90d227e4f3e491587.gifv" alt="Cool Retro Term" />
+</p>
+
+
+
+
+
+
+---
+
+
+
 
 
 ### 🛠️ Tech Stack
