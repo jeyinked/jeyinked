@@ -23,6 +23,10 @@
 - 🎯 Objectif : grandir en cybersécurité et partager mes projets
 
 ---
+## 📂 Projects
+- 🔒 [Projet SOC Lab](https://github.com/tonpseudo/soc-lab) : un mini-lab d’analyse sécurité  
+- 🐍 [Script Python Ansible Helper](https://github.com/tonpseudo/ansible-helper)  
+---
 
 ### 🛠️ Tech Stack
 <p align="center">
