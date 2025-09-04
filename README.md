@@ -64,8 +64,10 @@
 
 | 📂 Projects | <img src="https://64.media.tumblr.com/a57224044c21ed360630a7d243a8371a/2ee44825cf2d0e13-b8/s500x750/297534deb55ea99099a8a317caa9a23eb67c3d18.gif" width="200" style="vertical-align: middle;"> |
 |----------------|-------------------------------------------------------------------------------------------------------------|
-- 🔒 [Projet SOC Lab](https://github.com/tonpseudo/soc-lab) : un mini-lab d’analyse sécurité  
-- 🐍 [Script Python Ansible Helper](https://github.com/tonpseudo/ansible-helper)  
+- [ADMINISTRATION_LINUX-DEVOPS](https://github.com/jeyinked/ADMINISTRATION_LINUX-DEVOPS)  
+  Mes scripts, configurations pour l’admin Linux & DevOps en entreprise.
+
+
 
 
 
