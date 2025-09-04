@@ -69,10 +69,12 @@
 
 
 
+---
 
 
+| 📊 Stats GitHub | <img src="https://64.media.tumblr.com/eed43d52586c28c4ce1ab3865733a4f7/tumblr_pb2prkQEe11vr6fnio1_540.gifv" width="200" style="vertical-align: middle;"> |
+|----------------|-------------------------------------------------------------------------------------------------------------|
 
-## 📊 Stats GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight" />
