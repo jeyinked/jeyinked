@@ -66,7 +66,8 @@
 |----------------|-------------------------------------------------------------------------------------------------------------|
 - [ADMINISTRATION_LINUX-DEVOPS](https://github.com/jeyinked/ADMINISTRATION_LINUX-DEVOPS)  
   Mes scripts, configurations pour l’admin Linux & DevOps en entreprise.
-
+- [LAB / R&D / PROJETS PERSONNELS ](https://github.com/jeyinked/ADMINISTRATION_LINUX-DEVOPS)  
+  Mes projets perso, veille technologique.
 
 
 
