@@ -81,8 +81,8 @@
 ---
 
 
-
-## 📬 Contact
+| 📬 Contact | <img src="https://64.media.tumblr.com/a57224044c21ed360630a7d243a8371a/2ee44825cf2d0e13-b8/s500x750/297534deb55ea99099a8a317caa9a23eb67c3d18.gif" width="200" style="vertical-align: middle;"> |
+|----------------|-------------------------------------------------------------------------------------------------------------|
 
 <p align="center">
   <a href="https://www.linkedin.com/in/j%C3%A9r%C3%B4me-aguas/">
