@@ -68,7 +68,7 @@
   Mes scripts, configurations pour l’admin Linux & DevOps en entreprise.
 - [LAB / R&D / PROJETS PERSONNELS ](https://github.com/jeyinked/PERSONAL_PROJECT)  
   Mes projets perso, veille technologique.
-- [CYBERSECURITY / ANALYSTE SOC](https://github.com/jeyinked/PERSONAL_PROJECT)  
+- [CYBERSECURITY / ANALYSTE SOC](https://github.com/jeyinked/CYBERSECURITY_SOC)  
    Mes scripts, configurations pour ma montée en compétence concernant la cybersécurité.
 
 
