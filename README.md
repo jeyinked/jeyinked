@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/193e239055b521fa4cf3a9926998e74a/f1f4d7517491de0a-6e/s640x960/a5ec316d9d812e5735c29ae90d227e4f3e491587.gifv" alt="Cool Retro Term" />
+  <img src="https://64.media.tumblr.com/9a674e46f9b88bd2cffdc4a98d94e4dd/2ee44825cf2d0e13-30/s500x750/66e085518ca7c753262ecd69ea64a0e18f19e27c.gifv" alt="Cool Retro Term" />
 </p>
 
 ---
