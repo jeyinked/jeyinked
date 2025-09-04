@@ -81,7 +81,7 @@
 ---
 
 
-| 📬 Contact | <img src="https://64.media.tumblr.com/a57224044c21ed360630a7d243a8371a/2ee44825cf2d0e13-b8/s500x750/297534deb55ea99099a8a317caa9a23eb67c3d18.gif" width="200" style="vertical-align: middle;"> |
+| 📬 Contact | <img src="https://64.media.tumblr.com/5cc9e1de4a140635c093071e03fc401a/tumblr_o5aa5x1WJv1qcdqb0o7_540.gif" width="200" style="vertical-align: middle;"> |
 |----------------|-------------------------------------------------------------------------------------------------------------|
 
 <p align="center">
