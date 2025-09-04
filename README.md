@@ -29,11 +29,11 @@
 - 🎯 Objectif : grandir en cybersécurité et partager mes projets
 
 
-
 ---
 
 
-### 🛠️ Tech Stack
+| 🛠️ Tech Stack | <img src="https://64.media.tumblr.com/ebd05e05b4f4d82953adbe55eebda41e/cbe8e7eaaee9f3dd-56/s1280x1920/1144e1b9ce683f2da79c8a17e0fb461e2f52d8b3.gif" width="200" style="vertical-align: middle;"> |
+|----------------|-------------------------------------------------------------------------------------------------------------|
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-111?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121212?logo=gnubash&logoColor=white" />
@@ -79,6 +79,9 @@
 </p>
 
 ---
+
+
+
 ## 📬 Contact
 
 <p align="center">
