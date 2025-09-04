@@ -67,7 +67,7 @@
 - 🔒 [Projet SOC Lab](https://github.com/tonpseudo/soc-lab) : un mini-lab d’analyse sécurité  
 - 🐍 [Script Python Ansible Helper](https://github.com/tonpseudo/ansible-helper)  
 
-https://64.media.tumblr.com/950dcbbd2228af92bbcbcd79b0a62f25/fe919a435bfbed0b-d7/s500x750/8a7de1b9beeca852221e6bc8e8876c173210e20a.gifv
+
 
 
 
