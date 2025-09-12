@@ -1,4 +1,6 @@
-
+![CI](https://github.com/jeyinked/ADMINISTRATION_LINUX-DEVOPS/actions/workflows/ci.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+ 
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=34&pause=99999999&color=00FF00&width=700&lines=%24+jerome@linux:~$+welcome_on_my_github!" alt="Terminal Prompt" />
