@@ -1,6 +1,4 @@
-![CI](https://github.com/jeyinked/ADMINISTRATION_LINUX-DEVOPS/actions/workflows/ci.yml/badge.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
- 
+
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=34&pause=99999999&color=00FF00&width=700&lines=%24+jerome@linux:~$+welcome_on_my_github!" alt="Terminal Prompt" />
@@ -34,32 +32,39 @@
 ---
 
 
-| 🛠️ Tech Stack | <img src="https://64.media.tumblr.com/ebd05e05b4f4d82953adbe55eebda41e/cbe8e7eaaee9f3dd-56/s1280x1920/1144e1b9ce683f2da79c8a17e0fb461e2f52d8b3.gif" width="200" style="vertical-align: middle;"> |
+|🛠️ Current Focus | <img src="https://64.media.tumblr.com/ebd05e05b4f4d82953adbe55eebda41e/cbe8e7eaaee9f3dd-56/s1280x1920/1144e1b9ce683f2da79c8a17e0fb461e2f52d8b3.gif" width="200" style="vertical-align: middle;"> |
 |----------------|-------------------------------------------------------------------------------------------------------------|
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-111?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121212?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-000?logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOC%20Analyste-111?logo=probot&logoColor=white" />
-</p>
 
-💻 Linux  
-█████████████░░░░░ | 90%  
-🔒 Bash  
-███████████░░░░░░ | 70%  
-⚙️ Ansible  
-█████████░░░░░░░░ | 60%  
-🐳 Docker  
-██████░░░░░░░░░░░ | 50%  
-📂 Git  
-██████████░░░░░░░ | 75%  
-🐍 Python  
-████░░░░░░░░░░░░░ | 65%  
-🕵️ SOC Analyste  
-████░░░░░░░░░░░░░ | 45%  
+
+```bash
+jerome@linux:~$ current_focus
+
+⚙️ Infrastructure Automation
+Exploring Infrastructure as Code using Terraform and Proxmox API to automate virtual machine deployment.
+
+🐧 Linux System Administration
+Writing automation scripts and improving system administration workflows.
+
+🧪 Personal Projects & R&D
+Developing personal projects and technical experiments focused on Linux infrastructure, automation and system architecture.
+
+🔐 Cybersecurity Learning
+Practicing SOC analysis, detection techniques and incident investigation through labs.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 --- 
 
