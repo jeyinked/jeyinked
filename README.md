@@ -66,25 +66,24 @@
 
 | 📂 Projects | <img src="https://64.media.tumblr.com/a57224044c21ed360630a7d243a8371a/2ee44825cf2d0e13-b8/s500x750/297534deb55ea99099a8a317caa9a23eb67c3d18.gif" width="200" style="vertical-align: middle;"> |
 |----------------|-------------------------------------------------------------------------------------------------------------|
-- [ADMINISTRATION_LINUX-DEVOPS](https://github.com/jeyinked/ADMINISTRATION_LINUX-DEVOPS)  
-  Mes scripts, configurations pour l’admin Linux & DevOps en entreprise.
-- [LAB / R&D / PROJETS PERSONNELS ](https://github.com/jeyinked/PERSONAL_PROJECT)  
-  Mes projets perso, veille technologique.
-- [CYBERSECURITY / ANALYSTE SOC](https://github.com/jeyinked/CYBERSECURITY_SOC)  
-   Mes scripts, configurations pour ma montée en compétence concernant la cybersécurité.
+### Infrastructure / DevOps
 
+- [proxmox-terraform-lab](https://github.com/jeyinked/proxmox-terraform-lab)  
+  Infrastructure automation using Terraform and Proxmox API.
 
+- [linux-admin-scripts](https://github.com/jeyinked/linux-admin-scripts)  
+  Collection of useful Linux administration and automation scripts.
 
----
+### Homelab
 
+- [homelab-infrastructure](https://github.com/jeyinked/homelab-infrastructure)  
+  Documentation and architecture of my personal infrastructure and Proxmox homelab.
 
-| 📊 Stats GitHub | <img src="https://64.media.tumblr.com/eed43d52586c28c4ce1ab3865733a4f7/tumblr_pb2prkQEe11vr6fnio1_540.gifv" width="200" style="vertical-align: middle;"> |
-|----------------|-------------------------------------------------------------------------------------------------------------|
+### Cybersecurity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight" />
-</p>
+- [soc-lab-notes](https://github.com/jeyinked/soc-lab-notes)  
+  Cybersecurity learning notes, detection labs and SOC-oriented experimentation.
+
 
 ---
 
