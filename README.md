@@ -84,13 +84,10 @@ Practicing SOC analysis, detection techniques and incident investigation through
 - [soc-lab-notes](https://github.com/jeyinked/soc-lab-notes)  
   Cybersecurity learning notes, detection labs and SOC-oriented experimentation.
 
-### Personal project
+### World of Warcraft private server with azerothcore 3.3.5
 
-- [personal-project](https://github.com/jeyinked/personal-project)  
-  Documentation and architecture of my personal Project.
-
-
-
+- [azerothcore](https://github.com/jeyinked/wow-private-server)  
+  Documentation and architecture of my private server World of Warcraft.
 ---
 
 
