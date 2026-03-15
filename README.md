@@ -91,7 +91,7 @@ Practicing SOC analysis, detection techniques and incident investigation through
 ---
 
 
-| 📬 Contact | <img src="https://64.media.tumblr.com/8f401d392474ad4b7bef1e2da1075a02/eca5b32e5be74738-88/s640x960/a604b7dc7dfa503face5b7aa63b5463801db9049.gif" width="200" style="vertical-align: middle;"> |
+| 📬 Contact | |
 |----------------|-------------------------------------------------------------------------------------------------------------|
 
 <p align="center">
