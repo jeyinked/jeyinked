@@ -79,15 +79,16 @@ Practicing SOC analysis, detection techniques and incident investigation through
 - [linux-admin-scripts](https://github.com/jeyinked/linux-admin-scripts)  
   Collection of useful Linux administration and automation scripts.
 
-### Homelab
-
-- [homelab-infrastructure](https://github.com/jeyinked/homelab-infrastructure)  
-  Documentation and architecture of my personal infrastructure and Proxmox homelab.
-
 ### Cybersecurity
 
 - [soc-lab-notes](https://github.com/jeyinked/soc-lab-notes)  
   Cybersecurity learning notes, detection labs and SOC-oriented experimentation.
+
+### Personal project
+
+- [homelab-infrastructure](https://github.com/jeyinked/personal-project)  
+  Documentation and architecture of my personal Project.
+
 
 
 ---
