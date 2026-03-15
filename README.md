@@ -86,7 +86,7 @@ Practicing SOC analysis, detection techniques and incident investigation through
 
 ### Personal project
 
-- [homelab-infrastructure](https://github.com/jeyinked/personal-project)  
+- [personal-project](https://github.com/jeyinked/personal-project)  
   Documentation and architecture of my personal Project.
 
 
