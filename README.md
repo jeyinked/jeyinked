@@ -74,20 +74,32 @@ Practicing SOC analysis, detection techniques and incident investigation through
 ### Infrastructure / DevOps
 
 - [proxmox-terraform-lab](https://github.com/jeyinked/proxmox-terraform-lab)  
-  Infrastructure automation using Terraform and Proxmox API.
+  
+```bash
+jerome@linux:~$ Infrastructure automation using Terraform and Proxmox API.
+```
 
 - [linux-admin-scripts](https://github.com/jeyinked/linux-admin-scripts)  
-  Collection of useful Linux administration and automation scripts.
+
+```bash
+jerome@linux:~$ Collection of useful Linux administration and automation scripts.
+```
 
 ### Cybersecurity
 
 - [soc-lab-notes](https://github.com/jeyinked/soc-lab-notes)  
-  Cybersecurity learning notes, detection labs and SOC-oriented experimentation.
+
+```bash
+jerome@linux:~$ Cybersecurity learning notes, detection labs and SOC-oriented experimentation.
+```
 
 ### World of Warcraft private server with azerothcore 3.3.5
 
 - [azerothcore](https://github.com/jeyinked/wow-private-server)  
-  Documentation and architecture of my private server World of Warcraft.
+```bash
+
+  jerome@linux:~$ Documentation and architecture of my private server World of Warcraft.
+```
 ---
 
 
