@@ -103,9 +103,9 @@ jerome@linux:~$ Cybersecurity learning notes, detection labs and SOC-oriented ex
 ---
 
 
-### Docker API
+### Docker LAB
 
-- [docker-api](https://github.com/jeyinked/docker-api)  
+- [docker-lab](https://github.com/jeyinked/docker-api)  
 ```bash
 
   jerome@linux:~$ Docker labs & experimentation
