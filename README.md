@@ -71,27 +71,17 @@ Practicing SOC analysis, detection techniques and incident investigation through
 
 | 📂 Projects | <img src="https://64.media.tumblr.com/a57224044c21ed360630a7d243a8371a/2ee44825cf2d0e13-b8/s500x750/297534deb55ea99099a8a317caa9a23eb67c3d18.gif" width="200" style="vertical-align: middle;"> |
 |----------------|-------------------------------------------------------------------------------------------------------------|
-### Infrastructure / DevOps
 
-- [proxmox-terraform-lab](https://github.com/jeyinked/proxmox-terraform-lab)  
-  
+
+### Docker LABS
+
+- [docker-labs](https://github.com/jeyinked/docker-compose-labs)  
 ```bash
-jerome@linux:~$ Infrastructure automation using Terraform and Proxmox API.
+
+  jerome@linux:~$ Docker labs & experimentation
 ```
+---
 
-- [linux-admin-scripts](https://github.com/jeyinked/linux-admin-scripts)  
-
-```bash
-jerome@linux:~$ Collection of useful Linux administration and automation scripts.
-```
-
-### Cybersecurity
-
-- [soc-lab-notes](https://github.com/jeyinked/soc-lab-notes)  
-
-```bash
-jerome@linux:~$ Cybersecurity learning notes, detection labs and SOC-oriented experimentation.
-```
 
 ### World of Warcraft private server with azerothcore 3.3.5
 
@@ -103,14 +93,7 @@ jerome@linux:~$ Cybersecurity learning notes, detection labs and SOC-oriented ex
 ---
 
 
-### Docker LABS
 
-- [docker-labs](https://github.com/jeyinked/docker-compose-labs)  
-```bash
-
-  jerome@linux:~$ Docker labs & experimentation
-```
----
 
 
 
