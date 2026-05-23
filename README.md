@@ -82,7 +82,7 @@ Practicing SOC analysis, detection techniques and incident investigation through
 ```
 ---
 
-### DASHBOARD FINANCE  
+### FORTUNA DASHBOARD FINANCE  
 
 - [dashboard finance](https://github.com/jeyinked/dashboard-finance)  
 ```bash
