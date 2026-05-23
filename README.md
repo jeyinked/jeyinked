@@ -82,12 +82,12 @@ Practicing SOC analysis, detection techniques and incident investigation through
 ```
 ---
 
-### DASHBOARD FINANCE — static web application served with Docker & nginx
+### DASHBOARD FINANCE  
 
 - [dashboard fiannce](https://github.com/jeyinked/dashboard-finance)  
 ```bash
 
-  jerome@linux:~$ Docker labs & experimentation
+  jerome@linux:~$ static web application served with Docker & nginx
 ```
 
 
