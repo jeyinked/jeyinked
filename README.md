@@ -82,6 +82,15 @@ Practicing SOC analysis, detection techniques and incident investigation through
 ```
 ---
 
+### DASHBOARD FINANCE — static web application served with Docker & nginx
+
+- [dashboard fiannce](https://github.com/jeyinked/dashboard-finance)  
+```bash
+
+  jerome@linux:~$ Docker labs & experimentation
+```
+
+
 
 ### World of Warcraft private server with azerothcore 3.3.5
 
