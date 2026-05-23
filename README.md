@@ -84,7 +84,7 @@ Practicing SOC analysis, detection techniques and incident investigation through
 
 ### DASHBOARD FINANCE  
 
-- [dashboard fiannce](https://github.com/jeyinked/dashboard-finance)  
+- [dashboard finance](https://github.com/jeyinked/dashboard-finance)  
 ```bash
 
   jerome@linux:~$ static web application served with Docker & nginx
