@@ -110,7 +110,7 @@ Practicing SOC analysis, detection techniques and incident investigation through
 - [vinted_scraping](https://github.com/jeyinked/vinted_scraping)  
 ```bash
 
-  
+  Python scripts that watch Vinted and store pages and send instant ntfy alerts for deals.
 ```
 ---
 
