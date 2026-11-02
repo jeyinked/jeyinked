@@ -105,6 +105,19 @@ Practicing SOC analysis, detection techniques and incident investigation through
 
 
 
+### Vinted scraping horror movies & switch video games
+
+- [azerothcore](https://github.com/jeyinked/vinted_scraping)  
+```bash
+
+  
+```
+---
+
+
+
+
+
 
 | 📬 Contact | |
 |----------------|-------------------------------------------------------------------------------------------------------------|
